@@ -1,0 +1,44 @@
+name,first,last,ep_first_seen,ep_last_seen,num_ep_appeared
+Arya Stark,Arya,Stark,"""Winter Is Coming""","""The Iron Throne""",59
+Bran Stark,Bran,Stark,"""Winter Is Coming""","""The Iron Throne""",40
+Brienne of Tarth,Brienne,of,"""What Is Dead May Never Die""","""The Iron Throne""",42
+Bronn,Bronn,,"""Cripples, Bastards, and Broken Things""","""The Iron Throne""",36
+Catelyn Stark,Catelyn,Stark,"""Winter Is Coming""","""The Rains of Castamere""",26
+Cersei Lannister,Cersei,Lannister,"""Winter Is Coming""","""The Bells""",62
+Daario Naharis,Daario,Naharis,"""Second Sons""","""The Winds of Winter""",21
+Daenerys Targaryen,Daenerys,Targaryen,"""Winter Is Coming""","""The Iron Throne""",62
+Davos Seaworth,Davos,Seaworth,"""The North Remembers""","""The Iron Throne""",42
+Gendry,Gendry,,"""Cripples, Bastards, and Broken Things""","""The Iron Throne""",24
+Gilly,Gilly,,"""The North Remembers""","""The Iron Throne""",27
+Jaime Lannister,Jaime,Lannister,"""Winter Is Coming""","""The Bells""",55
+Joffrey Baratheon,Joffrey,Baratheon,"""Winter Is Coming""","""The Lion and the Rose""",26
+Jorah Mormont,Jorah,Mormont,"""Winter Is Coming""","""The Long Night""",52
+Margaery Tyrell,Margaery,Tyrell,"""What Is Dead May Never Die""","""The Winds of Winter""",26
+Melisandre,Melisandre,,"""The North Remembers""","""The Long Night""",29
+Missandei,Missandei,,"""Valar Dohaeris""","""The Last of the Starks""",38
+Ned Stark,Ned,Stark,"""Winter Is Coming""","""Baelor""",19
+Ramsay Bolton,Ramsay,Bolton,"""Dark Wings, Dark Words""","""Battle of the Bastards""",20
+Robb Stark,Robb,Stark,"""Winter Is Coming""","""The Rains of Castamere""",22
+Robert Baratheon,Robert,Baratheon,"""Winter Is Coming""","""You Win or You Die""",7
+Samwell Tarly,Samwell,Tarly,"""Cripples, Bastards, and Broken Things""","""The Iron Throne""",48
+Sandor Clegane,Sandor,Clegane,"""Winter Is Coming""","""The Bells""",38
+Sansa Stark,Sansa,Stark,"""Winter Is Coming""","""The Iron Throne""",59
+Shae,Shae,,"""Baelor""","""The Children""",20
+Stannis Baratheon,Stannis,Baratheon,"""The North Remembers""","""Mother's Mercy""",24
+Talisa Maegyr,Talisa,Maegyr,"""Garden of Bones""","""The Rains of Castamere""",11
+Theon Greyjoy,Theon,Greyjoy,"""Winter Is Coming""","""The Long Night""",47
+Tommen Baratheon,Tommen,Baratheon,"""Winter Is Coming""","""The Winds of Winter""",24
+Tormund Giantsbane,Tormund,Giantsbane,"""Valar Dohaeris""","""The Iron Throne""",33
+Tyrion Lannister,Tyrion,Lannister,"""Winter Is Coming""","""The Iron Throne""",67
+Tywin Lannister,Tywin,Lannister,"""You Win or You Die""","""The Children""",27
+Varys,Varys,,"""Lord Snow""","""The Bells""",46
+Viserys Targaryen,Viserys,Targaryen,"""Winter Is Coming""","""A Golden Crown""",5
+Ygritte,Ygritte,,"""The Old Gods and the New""","""The Watchers on the Wall""",17
+Ellaria Sand,Ellaria,Sand,"""Two Swords""","""The Queen's Justice""",13
+Grey Worm,Grey ,Worm,"""Kissed by Fire""","""The Iron Throne""",34
+High Sparrow,High,Sparrow,"""High Sparrow""","""The Winds of Winter""",12
+Jaqen H'ghar,Jaqen,H'ghar,"""Fire and Blood""","""No One""",18
+Jeor Mormont,Joer,Mormont,"""Lord Snow""","""And Now His Watch Is Ended""",12
+Jon Snow,Jon,Snow,"""Winter Is Coming""","""The Iron Throne""",62
+Petyr Baelish,Petyr,Baelish,"""Lord Snow""","""The Dragon and the Wolf""",41
+Roose Bolton,Roose,Bolton,"""Garden of Bones""","""Home""",19
